@@ -6,7 +6,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        System.out.println("Modified code to test Poll SCM trigger!");
+        System.out.println("System.out.println("Final CI test - Task 4!");
 
     }
 
